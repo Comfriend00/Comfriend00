@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Comfriend00
+- 👋 Hi, I’m @Bince Babu
 - 👀 I’m interested in learning hacking and machine learning 
 - 🌱 I’m currently a computer science student in College Of Engineering Trivandrum
 - 
